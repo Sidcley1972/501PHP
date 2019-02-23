@@ -1,5 +1,5 @@
 <?php
 //trabalhando com Git;
-só para teestar
+só para teesta
 
 
