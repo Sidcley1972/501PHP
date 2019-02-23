@@ -27,7 +27,7 @@ class conta
      * retorna o saldo atual
      * *@return float $saldo
      */
-    public function verSaldo()
+    public function verSaldo() 
     {
         return $this->saldo;
     } 
