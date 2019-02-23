@@ -32,7 +32,7 @@ class ContaPoupanca extends Conta
 }
 
 $contaPoupanca = new ContaPoupanca();
-$contaCorrente = new ContaPoupanca();
+$contaCorrente = new ContaCorrente();
 $conta = new Conta();
 
 echo "<pre>";
