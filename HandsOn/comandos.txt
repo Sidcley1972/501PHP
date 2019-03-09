@@ -398,7 +398,7 @@
   398  sudo apt update
   399  sudo apt upgrade
   400  sudo apt dist-upgrade 
-  401  exit
+  401  exitgit
   402  sudo su
   403  exit
   404  sudo systemctl start postgresql
