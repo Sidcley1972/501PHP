@@ -394,7 +394,7 @@
   394  sudo apt upgrade
   395  sudo apt upgrade --fix-missing
   396  sudo apt dist-upgrade 
-  397  exit
+  397  ex
   398  sudo apt update
   399  sudo apt upgrade
   400  sudo apt dist-upgrade 
