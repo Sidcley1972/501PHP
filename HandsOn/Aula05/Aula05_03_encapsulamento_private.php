@@ -54,7 +54,7 @@ class ContaPoupanca extends Contas
         $this->metodoProtegido();
         $this->depositar($valor);
 
-        echo 'Atributo private da clase mãe: ' . parent::$atributoPrivate . '<br />';
+        // echo 'Atributo private da clase mãe: ' . parent::$atributoPrivate . '<br />';
     }
 
     public function resgatar($valor)
